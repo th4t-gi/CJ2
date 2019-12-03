@@ -55,7 +55,7 @@ and it's Adequacy.
 
 ## FAQ
    #### Where's all the Training data?
-   Well, FPSPI says that no one can post the Future scene of any packet online until 4 years after the packet was graded/used/completed... so let me know when it's 2023, the training data from 2018 will be open source then. If you want to help, and you need the training data, the best I can do is show you the JSON format that I use. It is located under the [template packet](https://github.com/th4t-gi/CJ2/tree/master/template%20packet) directory. 
+   Well, FPSPI says that no one can post the Future scene of any packet online until 4 years after the packet was graded/used/completed... so let me know when it's 2023, the training data from 2018 will be open source then. If you want to help, and you need the training data, the best I can do is show you a gist of the current JSON format that I use [here](https://gist.github.com/th4t-gi/1c5db2614599d02a150718770ae80e7a) (cause I am quite indecisive). 
    #### How can I give you Training data?
    At the moment, I'm developing a data entry app with the [Ionic Framework](https://ionicframework.com/) for this purpose exactly. If you know Angular by any chance and want to help develop this app, [here's the repo for it](https://github.com/th4t-gi/CJ-Gateway)!
 
